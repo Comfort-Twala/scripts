@@ -1,0 +1,5 @@
+#!/bin/bash
+
+copied_text=$(xclip -out -selection primary)
+firefox "https://www.google.com/search?channel=fs&client=ubuntu&q=$copied_text"
+
