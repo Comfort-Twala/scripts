@@ -16,5 +16,10 @@ ctrl + alt + v
 ## 3. Transaction History
 Python script to download bank transaction history from bank website as csv
 
+## 4. Uninfo
+Script to scrape South African Universities Short description and links to their respective sites
+```
+source: africauniversities.org/south-africa/
+```
 #### Shortcuts
 Shortcuts are set in setting > keyboard bindings custom shortcuts.
