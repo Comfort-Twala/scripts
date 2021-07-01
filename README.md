@@ -20,6 +20,7 @@ Python script to download bank transaction history from bank website as csv
 Script to scrape South African Universities Short description and links to their respective sites
 ```
 source: africauniversities.org/south-africa/
+result: uninfo.json
 ```
 #### Shortcuts
 Shortcuts are set in setting > keyboard bindings custom shortcuts.
