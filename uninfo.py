@@ -13,7 +13,6 @@ info = {
 """
 
 ## IMPORTS
-from typing import final
 import requests, json
 from bs4 import BeautifulSoup as bs4
 
