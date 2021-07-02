@@ -14,13 +14,19 @@ shortcut:
 ctrl + alt + v
 ```
 ## 3. Transaction History
-Python script to download bank transaction history from bank website as csv
+Python script to download bank transaction history from bank website as csv.
 
 ## 4. Uninfo
-Script to scrape South African Universities Short description and links to their respective sites
+Script to scrape South African Universities Short description and links to their respective sites.
 ```
 source: africauniversities.org/south-africa/
 result: uninfo.json
 ```
+## 5. Cyanide and Happiness comic downloader
+Script to download all comics on the [Cyanide and Happiness](https://explosm.net/) website and save them locally.
+```
+site: https://explosm.net/
+```
+
 #### Shortcuts
 Shortcuts are set in setting > keyboard bindings custom shortcuts.
